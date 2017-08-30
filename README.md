@@ -1,5 +1,5 @@
 # jYD
-Javascript library like jQuery Api but smaller (14KB)
+jYD is Javascript library like jQuery Api but smaller (14KB) ,I writed jYD  for my upcoming child(YunDi).
 ## Usage
 ```html
 <script src="jYD.js"></script>
